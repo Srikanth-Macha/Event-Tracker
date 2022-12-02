@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fasting"
+        android:title="Fasting"
+        android:icon="@drawable/ic_baseline_offline_bolt_24" />
+
+    <item
+        android:id="@+id/person"
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_pin_24" />
+
+    <item
+        android:id="@+id/share"
+        android:title="Share"
+        android:icon="@drawable/ic_baseline_share_24" />
+</menu>
